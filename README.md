@@ -1,6 +1,7 @@
 - Hello, I'm Step (Štěpán, StepGames)
 - Using Unreal Engine to make terrible games
-- Sometimes I do other stuff like music or 3D models! Here's a few examples:
+- Sometimes I do other stuff like music or 3D models!
+- Here's a bad excuse for a portfolio:
 https://stepgamesofficial.github.io/StepGamesOfficial/
 
 
