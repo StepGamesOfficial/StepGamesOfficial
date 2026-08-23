@@ -1,7 +1,8 @@
 - Hello, I'm Step (Štěpán, StepGames)
-- Learning C++ right now 🤯
 - Using Unreal Engine to make terrible games
-- That's about it.
+- Sometimes I do other stuff! Here's a few examples:
+
+- 
 
 
 <!---
